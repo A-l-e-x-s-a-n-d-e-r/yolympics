@@ -1,6 +1,6 @@
 # YOLOv8 Detecção de Movimentos
 
-Este repositório contém código para detectar e classificar movimentos usando o modelo de detecção de objetos YOLOv8. O projeto utiliza técnicas de visão computacional para processar frames de vídeo, identificar pontos-chave e classificar vários movimentos.
+Este repositório contém código para detectar e classificar movimentos usando o modelo de detecção de objetos YOLOv8. O projeto utiliza técnicas de visão computacional para processar frames de vídeo, identificar pontos-chave e classificar vários movimentos. (https://www.linkedin.com/feed/update/urn:li:activity:7225531826541314050/)
 
 ## Recursos
 
